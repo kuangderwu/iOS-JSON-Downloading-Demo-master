@@ -18,3 +18,21 @@ class Actor: NSObject {
     var descript: String = ""
 
 }
+
+
+/* 
+ 
+introduction:
+ source Video:
+ https://www.youtube.com/watch?v=ea6_a_zbQrY
+ 
+ iOS Tutorial Downloading JSON into Table View in Swift 3 
+ 
+ 
+ method: 1. jsondownload from URL
+         2. parse save to array
+         3. Table View to display
+         4. Detailed tableview for more info
+ 
+ 
+*/
